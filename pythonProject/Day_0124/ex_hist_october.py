@@ -1,0 +1,21 @@
+import csv
+import matplotlib.pyplot as plt
+import koreanize_matplotlib
+
+f = open('../대구기온2-utf8.csv', encoding='utf-8-sig')
+data = csv.reader(f)
+next(data)
+aug = []
+
+for row in data :
+    month = row[0].split('-')[1]
+    if row[-1] != '':
+        if month =='08':
+            aug.append(float(row[-1]))
+
+f.close()
+plt.hist(aug, bins=100, color='tomato')
+plt.title('대구 8월의 최고 기온 히스토그램')
+plt.xlabel("Temperature")   # x축 레이블
+plt.ylabel('Counts')        # y축 레이블
+plt.show()
