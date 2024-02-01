@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="391b7d3d-c5e7-4c85-9a09-a4c971412e58" name="변경" comment="변경" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bNV290S37NPwnPtdS6VJrY5lG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ex-test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01_data_people.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01_draw_graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01_draw_input_graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex02_vote_able.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex03_student_age.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex04_gender.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex04_gender_diff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex05_five_city_gender.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex06_draw_jeju_colorbar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_01find0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_01read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_02max_find_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_03find_ax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_04piechart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_05max_people.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_06make_pie_img.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_07subway01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_07subway02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_08gotowork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_09subwaytime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_10all_subwaytime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_11lambda_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_12pandas_excel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_bigyo_last_all.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_find_tem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_high_tem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_high_tem2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_hist-both.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_hist_october.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_hist_tem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_minmax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_read_csv_hochul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_split_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_header.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ufg_8_sig-file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.worday2-2_양현우.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_day1-2_양현우.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_day1_양현우.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workday2-1_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workday2-1_양현우.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workday3-1_양현우.executor&quot;: &quot;Run&quot;,
+    &quot;Python.workweek_양현우.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KDP-23\PycharmProjects\BigData\pythonProject\Day_0125" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="391b7d3d-c5e7-4c85-9a09-a4c971412e58" name="변경" comment="" />
+      <created>1706055313499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706055313499</updated>
+    </task>
+    <task id="LOCAL-00001" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706074742128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706074742128</updated>
+    </task>
+    <task id="LOCAL-00002" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706080200053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706080200053</updated>
+    </task>
+    <task id="LOCAL-00003" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706093372511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706093372511</updated>
+    </task>
+    <task id="LOCAL-00004" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706096629558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706096629558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706166559897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706166559897</updated>
+    </task>
+    <task id="LOCAL-00006" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706173871240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706173871240</updated>
+    </task>
+    <task id="LOCAL-00007" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706249582315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706249582315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="변경">
+      <option name="closed" value="true" />
+      <created>1706266141883</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706266141883</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="변경" />
+  </component>
+</project>
